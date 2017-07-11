@@ -15,6 +15,7 @@
 		EDAC9CE31F13700B00B50D34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDAC9CE21F13700B00B50D34 /* Assets.xcassets */; };
 		EDAC9CE61F13700B00B50D34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDAC9CE41F13700B00B50D34 /* LaunchScreen.storyboard */; };
 		EDAC9CF01F13758C00B50D34 /* CTMediator+A.m in Sources */ = {isa = PBXBuildFile; fileRef = EDAC9CEF1F13758C00B50D34 /* CTMediator+A.m */; };
+		EDAC9D2F1F145C7000B50D34 /* CTMediator+B.m in Sources */ = {isa = PBXBuildFile; fileRef = EDAC9D2E1F145C7000B50D34 /* CTMediator+B.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		EDAC9CE71F13700B00B50D34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDAC9CEE1F13758C00B50D34 /* CTMediator+A.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CTMediator+A.h"; sourceTree = "<group>"; };
 		EDAC9CEF1F13758C00B50D34 /* CTMediator+A.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+A.m"; sourceTree = "<group>"; };
+		EDAC9D2D1F145C7000B50D34 /* CTMediator+B.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CTMediator+B.h"; sourceTree = "<group>"; };
+		EDAC9D2E1F145C7000B50D34 /* CTMediator+B.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+B.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,8 @@
 			children = (
 				EDAC9CEE1F13758C00B50D34 /* CTMediator+A.h */,
 				EDAC9CEF1F13758C00B50D34 /* CTMediator+A.m */,
+				EDAC9D2D1F145C7000B50D34 /* CTMediator+B.h */,
+				EDAC9D2E1F145C7000B50D34 /* CTMediator+B.m */,
 			);
 			path = A_Category;
 			sourceTree = "<group>";
@@ -242,6 +247,7 @@
 				EDAC9CF01F13758C00B50D34 /* CTMediator+A.m in Sources */,
 				EDAC9CDB1F13700B00B50D34 /* AppDelegate.m in Sources */,
 				EDAC9CD81F13700B00B50D34 /* main.m in Sources */,
+				EDAC9D2F1F145C7000B50D34 /* CTMediator+B.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
